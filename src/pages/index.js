@@ -1,7 +1,12 @@
 import React from "react"
+import Layout  from "../components/layout/layout"
+
+
 
 const IndexPage = () => (
-  <>123
+  <>
+    
+    <Layout></Layout>
   </>
 )
 
