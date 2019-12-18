@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './header/header'
-import Content from './contentarea/contentarea'
+// import Content from './contentarea/contentarea'
 import { Global,css } from "@emotion/core"
 
 
@@ -18,7 +18,11 @@ const Layout = ()=>{
           `}
         ></Global>
         <Header />
-        <Content />
+        {/* <Content />
+         */}
+         <main>
+           
+         </main>
       </>
     )
 }

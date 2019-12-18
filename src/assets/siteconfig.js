@@ -10,7 +10,7 @@ export const siteColor = {
 export const navItems = {
   whoami:{
     title:'who am i',
-    url:'/',
+    url:'/who',
     subtitle:{
       skill:{
         title:'skill',
@@ -32,22 +32,22 @@ export const navItems = {
   },
   share:{
     title:'share',
-    url:''
+    url:'/share'
   },
   code:{
     title:'code',
-    url:''
+    url:'/code'
   },
   framer:{
     title:'framer',
-    url:''
+    url:'/framer'
   },
   projects:{
     title:'projects',
-    url:''
+    url:'/projects'
   },
   contact:{
     title:'contact',
-    url:''
+    url:'/contact'
   }
 }
